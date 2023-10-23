@@ -21,6 +21,8 @@
 </a>
 
 <h2>Languages and Tools</h2>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right: 14px" alt="Adobe XD" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 14px" alt="Figma" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 14px" alt="Visual Studio Code" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 14px" alt="HTML5" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 14px" alt="CSS3" />
