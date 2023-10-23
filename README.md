@@ -20,19 +20,14 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<h2>Languages and Tools</h2>
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right: 14px" alt="Adobe XD" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 14px" alt="Figma" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 14px" alt="Visual Studio Code" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 14px" alt="HTML5" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 14px" alt="CSS3" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 14px" alt="JavaScript" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="padding-right: 14px" alt="jQuery" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 14px" alt="React" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right: 14px" alt="Bootstrap" />
+<h2>Tools and Languages</h2>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right: 14px; margin-bottom: 18px" alt="Adobe XD" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="Figma" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="Visual Studio Code" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="HTML5" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="CSS3" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="JavaScript" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="padding-right: 14px; margin-bottom: 18px" alt="jQuery" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="React" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right: 14px; margin-bottom: 18px" alt="Bootstrap" />
 <img align="left" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tainwind CSS" />
-
-
-
-          
-          
