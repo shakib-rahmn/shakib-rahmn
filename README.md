@@ -16,8 +16,8 @@
 <p>✉ Feel free to reach out and explore my web development journey.</p>
 
 <h2>Get in touch</h2>
-<a href="mailto:shakibr810@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/shakib-rahman-0b0330297/" target="_blank">
+  Linkedin
 </a>
 
 <h2>Tools and Languages</h2>
