@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Shakib
 
-**`Front-end Web developer`**
+**`Frontend Web Developer`**
 
 <h2>About Me</h2>
 📚 I'm a Computer Science and Engineering student with a diploma in Computer Technology. I'm currently pursuing my BSc degree in the same field.  
