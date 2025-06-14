@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Shakib
+### 👋 Hi there
 
 **`Frontend Web Developer`**
 
