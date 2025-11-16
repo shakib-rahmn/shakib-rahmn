@@ -2,4 +2,4 @@
 
 **`Frontend Web Developer`**
 
-Work is in progress...
+“Talk is cheap. Show me the code.” - Linus Torvalds
