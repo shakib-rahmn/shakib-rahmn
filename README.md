@@ -2,4 +2,4 @@
 
 **`Frontend Web Developer`**
 
-“Talk is cheap. Show me the code.” - Linus Torvalds
+Centering one div at a time.
